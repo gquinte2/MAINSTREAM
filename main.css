@@ -428,6 +428,8 @@
     padding: 2px 32px;
     color: white;
   }
+    footer{
+        color: #590242;}
   .tsongs{
     padding-left:32px;
     padding-top: 60px;
@@ -442,6 +444,9 @@
   h3.tsongs {
     margin-top: -120px;
     padding-top: 35px;
+  }
+  footer{
+    color:#590242;
   }
   .playlist1 {
     background-color: white;
